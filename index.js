@@ -44,4 +44,4 @@ client.once('ready', () => {
 });
 
 keepAlive();
-client.login(process.env.BOTTOKEN);
+client.login(process.env.BOTTOKEN); //this was made with replit.com
